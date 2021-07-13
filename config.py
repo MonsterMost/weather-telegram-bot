@@ -1,0 +1,3 @@
+TOKEN = '1861889293:AAGphvvbvDzI0su43KMqEv66Dx5KOMtUzOw'
+URL = 'http://reactor.cc/tag/%D0%BA%D0%BE%D1%82%D1%8D'
+CHANNEL_ID = '-1001517645466'

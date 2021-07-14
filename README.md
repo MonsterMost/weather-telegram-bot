@@ -1,6 +1,3 @@
 "# weather-telegram-bot" 
-
-The telegram bot receives API from openweathermap.org 
-and displays the current weather 
-(temperature, clarity, wind speed) in the city 
-that the user wrote
+Изначально писался для получения погоды, но был передела в парсера постов с котиками.
+Initially, it was written to get weather, but was redistributed into a parser for posts with cats
